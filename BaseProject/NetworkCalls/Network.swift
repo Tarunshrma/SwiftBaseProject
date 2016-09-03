@@ -2,8 +2,8 @@
 //  Network.swift
 //  NetworkCalls
 //
-//  Created by Xoriant on 4/18/16.
-//  Copyright © 2016 Xoriant. All rights reserved.
+//  Created by Tarun Sharma on 4/18/16.
+//  Copyright © 2016 Tarun Sharma. All rights reserved.
 //
 
 import UIKit

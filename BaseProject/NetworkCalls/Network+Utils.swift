@@ -2,8 +2,8 @@
 //  Network+Utils.swift
 //  BaseProject
 //
-//  Created by Xoriant on 5/23/16.
-//  Copyright © 2016 Xoriant. All rights reserved.
+//  Created by Tarun Sharma on 5/23/16.
+//  Copyright © 2016 Tarun Sharma. All rights reserved.
 //
 
 import Foundation
